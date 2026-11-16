@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Logic Lab
+
+**Embryo Logic Lab** is Embryo-Zero's fork of [Digital](https://github.com/hneemann/Digital), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 [![Download](distribution/Download.svg)](https://github.com/hneemann/Digital/releases/latest/download/Digital.zip)
 
 ![Build Status](https://travis-ci.com/hneemann/Digital.svg?branch=master)
