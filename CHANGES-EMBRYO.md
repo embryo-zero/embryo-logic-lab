@@ -6,3 +6,4 @@ Forked from v0.31 (commit 816eff5) on 2026-11-16. All changes are on the `embryo
 |---|---|---|
 | 2026-11-16 | EMBRYO.md, LEGAL.md, CHANGES-EMBRYO.md (new) | Fork notes, legal notes and this list. No original file changed yet. |
 | 2026-11-16 | README.md | Embryo name at the top; the original README follows unchanged |
+| 2026-11-18 | (no file changed) | built as Logic Lab for Embryo-Zero Desktop |
